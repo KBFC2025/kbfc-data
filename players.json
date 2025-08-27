@@ -1,8 +1,37 @@
 [
-  { "id": "1", "number": 1, "name": "A. Jones", "position": "GK", "role": "Goalkeeper" },
-  { "id": "2", "number": 3, "name": "B. Evans", "position": "DF", "role": "Defender" },
-  { "id": "3", "number": 5, "name": "C. Roberts", "position": "DF", "role": "Defender" },
-  { "id": "4", "number": 8, "name": "D. Hughes", "position": "MF", "role": "Midfielder" },
-  { "id": "5", "number": 9, "name": "E. Thomas", "position": "FW", "role": "Forward" },
-  { "id": "6", "number": 11, "name": "F. Williams", "position": "FW", "role": "Forward" }
+  {
+    "id": "1",
+    "number": 1,
+    "name": "A. Jones",
+    "position": "GK",
+    "role": "GOALKEEPERS"
+  },
+  {
+    "id": "3",
+    "number": 3,
+    "name": "B. Evans",
+    "position": "DF",
+    "role": "DEFENDERS"
+  },
+  {
+    "id": "5",
+    "number": 5,
+    "name": "C. Roberts",
+    "position": "DF",
+    "role": "DEFENDERS"
+  },
+  {
+    "id": "8",
+    "number": 8,
+    "name": "D. Hughes",
+    "position": "MF",
+    "role": "MIDFIELDERS"
+  },
+  {
+    "id": "9",
+    "number": 9,
+    "name": "E. Thomas",
+    "position": "FW",
+    "role": "FORWARDS"
+  }
 ]
