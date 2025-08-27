@@ -1,14 +1,14 @@
 [
   {
-    "id": "2025-07-27-chirk",
+    "id": "2025-07-27-chirk-aaa",
     "date": "2025-07-27T15:00:00Z",
     "competition": "Welsh Cup Qualifying RD1",
     "homeAway": "Away",
     "opponent": "Chirk AAA",
     "venue": "The Sacred Field",
-    "homeScore": 1,
-    "awayScore": 1,
-    "resultNote": "Kinmel Bay win 6–5 on pens",
+    "kbfcScore": 1,
+    "oppScore": 1,
+    "resultNote": "Won 6–5 on pens",
     "outcome": "W"
   },
   {
@@ -18,20 +18,20 @@
     "homeAway": "Home",
     "opponent": "Corwen",
     "venue": "Kinmel Bay Leisure Centre",
-    "homeScore": 3,
-    "awayScore": 1,
+    "kbfcScore": 3,
+    "oppScore": 1,
     "resultNote": "Solid win",
     "outcome": "W"
   },
   {
-    "id": "2025-08-09-cerrig",
+    "id": "2025-08-09-cerrigydrudion",
     "date": "2025-08-09T14:30:00Z",
     "competition": "League",
     "homeAway": "Away",
     "opponent": "Cerrigydrudion",
     "venue": "Ysgol Cerrigydrudion",
-    "homeScore": 0,
-    "awayScore": 10,
+    "kbfcScore": 10,
+    "oppScore": 0,
     "resultNote": "Solid win",
     "outcome": "W"
   },
@@ -42,34 +42,34 @@
     "homeAway": "Away",
     "opponent": "Llangernyw",
     "venue": "Ysgol Bro Cernyw",
-    "homeScore": 0,
-    "awayScore": 8,
+    "kbfcScore": 8,
+    "oppScore": 0,
     "resultNote": "Solid win",
     "outcome": "W"
   },
   {
-    "id": "2025-08-23-welshcup-rd2",
+    "id": "2025-08-23-wc-qual-rd2",
     "date": "2025-08-23T14:00:00Z",
     "competition": "Welsh Cup Qualifying RD2",
     "homeAway": "Home",
     "opponent": "Kinmel Bay",
     "venue": "Kinmel Bay Leisure Centre",
-    "homeScore": 3,
-    "awayScore": 0,
+    "kbfcScore": 3,
+    "oppScore": 0,
     "resultNote": "Solid win",
     "outcome": "W"
   },
   {
-    "id": "2025-09-06-cemaes",
+    "id": "2025-09-06-cemaes-bay",
     "date": "2025-09-06T14:00:00Z",
     "competition": "Dragon Signs Amateur Trophy RD1",
     "homeAway": "Away",
     "opponent": "Cemaes Bay",
     "venue": "The School Lane Ground",
-    "homeScore": null,
-    "awayScore": null,
-    "resultNote": "",
-    "outcome": ""
+    "kbfcScore": null,
+    "oppScore": null,
+    "resultNote": null,
+    "outcome": null
   },
   {
     "id": "2025-09-13-meliden",
@@ -78,9 +78,9 @@
     "homeAway": "Away",
     "opponent": "Meliden",
     "venue": "Ffordd Ty Newydd",
-    "homeScore": null,
-    "awayScore": null,
-    "resultNote": "",
-    "outcome": ""
+    "kbfcScore": null,
+    "oppScore": null,
+    "resultNote": null,
+    "outcome": null
   }
 ]
