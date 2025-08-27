@@ -2,36 +2,36 @@
   {
     "id": "1",
     "number": 1,
-    "name": "James. Roberts",
+    "name": "A. Jones",
     "position": "GK",
-    "role": "GOALKEEPERS"
+    "role": "GK"
   },
   {
     "id": "2",
-    "number": 2,
-    "name": "Charlie. Jones",
+    "number": 3,
+    "name": "B. Evans",
     "position": "DF",
-    "role": "DEFENDERS"
+    "role": "DF"
   },
   {
     "id": "3",
-    "number": 3,
-    "name": "Joshua. Parry",
+    "number": 5,
+    "name": "C. Roberts",
     "position": "DF",
-    "role": "DEFENDERS"
+    "role": "DF"
   },
   {
-    "id": "6",
-    "number": 4,
-    "name": "Mathew. Beach",
+    "id": "4",
+    "number": 8,
+    "name": "D. Hughes",
     "position": "MF",
-    "role": "MIDFIELDERS"
+    "role": "MF"
   },
   {
     "id": "5",
     "number": 9,
-    "name": "Connor. Morris",
+    "name": "E. Thomas",
     "position": "FW",
-    "role": "FORWARDS"
+    "role": "FW"
   }
 ]
