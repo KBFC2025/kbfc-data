@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "opponent": "Cemaes Bay",
+    "date": "2025-09-06T14:00:00Z",
+    "homeAway": "Away",
+    "venue": "The School Lane Ground",
+    "competition": "Dragon Signs Amateur Trophy RD1",
+    "note": "Kick Off: 2pm"
+  },
+  {
+    "id": "2",
+    "opponent": "Prestatyn",
+    "date": "2025-09-13T14:00:00Z",
+    "homeAway": "Home",
+    "venue": "Kinmel Bay Sports Ground",
+    "competition": "League Match",
+    "note": "Big local derby"
+  },
+  {
+    "id": "3",
+    "opponent": "Llanrug",
+    "date": "2025-09-20T14:00:00Z",
+    "homeAway": "Away",
+    "venue": "Llanrug Stadium",
+    "competition": "League Match",
+    "note": ""
+  }
+]
