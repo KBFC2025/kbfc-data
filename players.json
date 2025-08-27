@@ -5,7 +5,7 @@
     "name": "James Roberts",
     "position": "GK",
     "role": "Goalkeeper",
-    "image": "James_Roberts"
+    "image": "james_roberts"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "name": "Charlie Jones",
     "position": "DF",
     "role": "Defender",
-    "image": "Charlie_Jones"
+    "image": "charlie_jones"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "name": "Joshua Parry",
     "position": "DF",
     "role": "Defender",
-    "image": "Joshua_Parry"
+    "image": "joshua_parry"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "name": "Liam Jones",
     "position": "DF",
     "role": "Defender",
-    "image": "Liam_Jones"
+    "image": "liam_jones"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "name": "Anthony Jones",
     "position": "DF",
     "role": "Defender",
-    "image": "Anthony_Jones"
+    "image": "anthony_jones"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "name": "McKenzie Slaven",
     "position": "DF",
     "role": "Defender",
-    "image": "Mckenzie_Slaven"
+    "image": "mckenzie_slaven"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "name": "Mathew Beach",
     "position": "MF",
     "role": "Midfielder",
-    "image": "Mathew_Beach"
+    "image": "mathew_beach"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "name": "Ash Wood",
     "position": "MF",
     "role": "Midfielder",
-    "image": "Ash_Wood"
+    "image": "ash_wood"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "name": "Connor Morris",
     "position": "FW",
     "role": "Forward",
-    "image": "Connor_Morris"
+    "image": "connor_morris"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "name": "Ryan Roberts",
     "position": "MF",
     "role": "Midfielder",
-    "image": "Ryan_Roberts"
+    "image": "ryan_roberts"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "name": "Sean Sheridan",
     "position": "FW",
     "role": "Forward",
-    "image": "Sean_Sheridan"
+    "image": "sean_sheridan"
   },
   {
     "id": "12",
@@ -93,7 +93,7 @@
     "name": "Mason Richards",
     "position": "DF",
     "role": "Defender",
-    "image": "Mason_Richards"
+    "image": "mason_richards"
   },
   {
     "id": "13",
@@ -101,7 +101,7 @@
     "name": "Ashley Lavender",
     "position": "GK",
     "role": "Goalkeeper",
-    "image": "Ashley_Lavender"
+    "image": "ashley_lavender"
   },
   {
     "id": "14",
@@ -109,7 +109,7 @@
     "name": "Matthew Rees",
     "position": "FW",
     "role": "Forward",
-    "image": "Matthew_Rees"
+    "image": "matthew_rees"
   },
   {
     "id": "15",
@@ -117,7 +117,7 @@
     "name": "Ciaran Brady",
     "position": "DF",
     "role": "Defender",
-    "image": "Ciaran_Brady"
+    "image": "ciaran_brady"
   },
   {
     "id": "16",
@@ -125,7 +125,7 @@
     "name": "Ben Cawley",
     "position": "FW",
     "role": "Forward",
-    "image": "Ben_Cawley"
+    "image": "ben_cawley"
   },
   {
     "id": "17",
@@ -133,7 +133,7 @@
     "name": "Joshua Williams",
     "position": "MF",
     "role": "Midfielder",
-    "image": "Joshua_Williams"
+    "image": "joshua_williams"
   },
   {
     "id": "18",
@@ -141,7 +141,7 @@
     "name": "Jacob Jones",
     "position": "FW",
     "role": "Forward",
-    "image": "Jacob_Jones"
+    "image": "jacob_jones"
   },
   {
     "id": "19",
@@ -149,7 +149,7 @@
     "name": "Dom Holland",
     "position": "FW",
     "role": "Forward",
-    "image": "Dom_Holland"
+    "image": "dom_holland"
   },
   {
     "id": "20",
@@ -157,7 +157,7 @@
     "name": "Jared Hughes",
     "position": "DF",
     "role": "Defender",
-    "image": "Jared_Hughes"
+    "image": "jared_hughes"
   },
   {
     "id": "21",
@@ -165,7 +165,7 @@
     "name": "Tate Walker",
     "position": "FW",
     "role": "Forward",
-    "image": "Tate_Walker"
+    "image": "tate_walker"
   },
   {
     "id": "22",
@@ -173,6 +173,6 @@
     "name": "Paul Brady",
     "position": "MF",
     "role": "Midfielder",
-    "image": "Paul_Brady"
+    "image": "paul_brady"
   }
 ]
