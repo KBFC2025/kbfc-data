@@ -4,15 +4,39 @@
     "number": 1,
     "name": "A. Jones",
     "position": "GK",
-    "role": "GOALKEEPERS",
-    "image": "https://your-github-url/players/a-jones.jpg"
+    "role": "GK",
+    "image": "https://via.placeholder.com/150"
   },
   {
     "id": "2",
     "number": 3,
     "name": "B. Evans",
     "position": "DF",
-    "role": "DEFENDERS",
-    "image": "https://your-github-url/players/b-evans.jpg"
+    "role": "DF",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "3",
+    "number": 5,
+    "name": "C. Roberts",
+    "position": "DF",
+    "role": "DF",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "4",
+    "number": 8,
+    "name": "D. Hughes",
+    "position": "MF",
+    "role": "MF",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "5",
+    "number": 9,
+    "name": "E. Thomas",
+    "position": "FW",
+    "role": "FW",
+    "image": "https://via.placeholder.com/150"
   }
 ]
