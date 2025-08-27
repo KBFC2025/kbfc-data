@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "number": 1,
+    "name": "A. Jones",
+    "position": "GK",
+    "role": "GOALKEEPER"
+  },
+  {
+    "id": "2",
+    "number": 3,
+    "name": "B. Evans",
+    "position": "DF",
+    "role": "DEFENDER"
+  },
+  {
+    "id": "3",
+    "number": 5,
+    "name": "C. Roberts",
+    "position": "DF",
+    "role": "DEFENDER"
+  },
+  {
+    "id": "4",
+    "number": 8,
+    "name": "D. Hughes",
+    "position": "MF",
+    "role": "MIDFIELDER"
+  },
+  {
+    "id": "5",
+    "number": 9,
+    "name": "E. Thomas",
+    "position": "FW",
+    "role": "FORWARD"
+  }
+]
